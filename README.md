@@ -49,8 +49,15 @@ No cloud. No bloat. Just a sharp memory, a chat box, and your favorite browser d
   - Search your past like a digital brain
 
 - **Pattern Recognition**  
-  - Notices trends in your behavior  
-  - “You searched Franck Muller watches 6 times this week — one’s on sale now”
+Q learns from your behavior — not just what you click, but what you *care about*.
+It connects dots across time, digs up what you missed, and brings forgotten data back into the spotlight.
+
+**Examples:**
+- “You searched Franck Muller watches 6 times this week — one’s on sale on Chrono24 now.”
+- “This doc matches a chat and PDF from 2022 — want to pull them in?”
+
+Q isn’t a helper.  
+It’s your **second brain** with a memory for everything you almost forgot.
 
 - **Split Workspace Design**  
   - Email tabs on the **left vertical sidebar**  
