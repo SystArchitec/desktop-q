@@ -1,5 +1,7 @@
 # Desktop Q – The Smart AI Desktop for People Who Live Online
 
+Q is a local, AI-powered desktop overlay that learns from you, remembers everything, and makes your browser feel alive.
+
 **Desktop Q** is not trying to replace your OS — it’s trying to outsmart it.
 
 It’s a web-based, AI-powered desktop layer for people who live in browsers, juggle tasks, and forget what they did 20 minutes ago.
@@ -13,7 +15,18 @@ No cloud. No bloat. Just a sharp memory, a chat box, and your favorite browser d
 - **Web-Based Home Screen**  
   - Favorite sites front and center  
   - Smart AI-suggested categories  
-  - Designed for browser-first living  
+  - Designed for browser-first living
+    
+- **🧠Pattern Recognition**  
+Q learns from your behavior — not just what you click, but what you *care about*.
+It connects dots across time, digs up what you missed, and brings forgotten data back into the spotlight.
+
+**Examples:**
+- “You searched Franck Muller watches 6 times this week — one’s on sale on Chrono24 now.”
+- “This doc matches a chat and PDF from 2022 — want to pull them in?”
+
+Q isn’t a helper.  
+It’s your **second brain** with a memory for everything you almost forgot.
 
 - **Expandable AI Chat Bar (Replaces Your Search Bar)**  
   - Starts like Google’s input — small and clean  
@@ -48,16 +61,6 @@ No cloud. No bloat. Just a sharp memory, a chat box, and your favorite browser d
   - Ask: “What was I doing on May 22, 2023, around 5PM?” — Q knows  
   - Search your past like a digital brain
 
-- **Pattern Recognition**  
-Q learns from your behavior — not just what you click, but what you *care about*.
-It connects dots across time, digs up what you missed, and brings forgotten data back into the spotlight.
-
-**Examples:**
-- “You searched Franck Muller watches 6 times this week — one’s on sale on Chrono24 now.”
-- “This doc matches a chat and PDF from 2022 — want to pull them in?”
-
-Q isn’t a helper.  
-It’s your **second brain** with a memory for everything you almost forgot.
 
 - **Split Workspace Design**  
   - Email tabs on the **left vertical sidebar**  
