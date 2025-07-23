@@ -17,7 +17,7 @@ No cloud. No bloat. Just a sharp memory, a chat box, and your favorite browser d
   - Smart AI-suggested categories  
   - Designed for browser-first living
     
-- **🧠Pattern Recognition**  
+- **Pattern Recognition**  
 Q learns from your behavior — not just what you click, but what you *care about*.
 It connects dots across time, digs up what you missed, and brings forgotten data back into the spotlight.
 
