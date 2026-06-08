@@ -1,12 +1,17 @@
-# Desktop Q – The Smart AI Desktop for People Who Live Online
+# Desktop Q – AI-Powered Personal Environment
 
-Q is a local, AI-powered desktop overlay that learns from you, remembers everything, and makes your browser feel alive.
+Q is an AI-powered personal environment that combines memory, productivity, media discovery, social interaction, and intelligent assistance into one unified experience.
 
-**Desktop Q** is not trying to replace your OS — it’s trying to outsmart it.
+Desktop Q can function as a desktop overlay, browser-first workspace, and AI-powered digital hub, helping users organize work, discover content, communicate, and manage their digital lives from a single intelligent interface.
 
-It’s a web-based, AI-powered desktop layer for people who live in browsers, juggle tasks, and forget what they did 20 minutes ago.
+Desktop Q is not trying to replace your operating system.
 
-No cloud. No bloat. Just a sharp memory, a chat box, and your favorite browser doing real work.
+It's trying to make it smarter.
+
+Built for people who live in browsers, juggle projects, consume content, and switch constantly between work and personal activities, Q acts as a persistent memory layer and intelligent assistant across the entire digital experience.
+
+No cloud. No bloat. Just a sharp memory, an intelligent assistant, and your favorite tools working together.
+
 
 ---
 
