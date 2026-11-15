@@ -82,7 +82,8 @@ It’s your **second brain** with a memory for everything you almost forgot.
   - Q can also **mirror your own personality over time**  
     - Learns how you speak, joke, and phrase thoughts  
     - Adapts to your tone naturally — no prompts needed
-> Real AI doesn’t just answer — it vibes.
+
+
 👁️ Q Living Avatar – An AI That Comes Alive on Your Desktop
 
 Desktop Q introduces an optional AI generated visual companion that transforms the traditional assistant into a living, interactive presence.
